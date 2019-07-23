@@ -1,4 +1,4 @@
-package homework3;
+package main.java.homework3;
 
 public class Player implements Runnable {
 	private int hitsNumber = 0;

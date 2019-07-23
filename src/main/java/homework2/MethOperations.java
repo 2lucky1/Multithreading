@@ -1,4 +1,4 @@
-package homework2;
+package main.java.homework2;
 
 public class MethOperations implements Runnable {
 

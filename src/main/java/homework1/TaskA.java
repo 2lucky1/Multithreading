@@ -1,4 +1,4 @@
-package homework1;
+package main.java.homework1;
 
 public class TaskA implements Runnable {
 
