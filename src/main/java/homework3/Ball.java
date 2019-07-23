@@ -1,4 +1,4 @@
-package main.java.homework3;
+package homework3;
 
 public class Ball {
 	private int _touchNumber = 0;

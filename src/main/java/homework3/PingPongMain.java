@@ -1,4 +1,4 @@
-package main.java.homework3;
+package homework3;
 
 public class PingPongMain {
 	private static Player vasya;
